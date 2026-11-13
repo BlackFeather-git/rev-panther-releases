@@ -7,7 +7,8 @@
     "assets": [
       {
         "name": "RevPanther-v0.1.0-rc.9.apk",
-        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0-rc.9.apk"
+        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0-rc.9.apk",
+        "fallback_url": "https://github.com/BlackFeather-git/rev-panther-releases/releases/download/v0.1.0-rc.9/RevPanther-v0.1.0-rc.9.apk"
       }
     ]
   },
@@ -19,7 +20,8 @@
     "assets": [
       {
         "name": "RevPanther-v0.1.0.apk",
-        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0.apk"
+        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0.apk",
+        "fallback_url": "https://github.com/BlackFeather-git/rev-panther-releases/releases/download/v0.1.0/RevPanther-v0.1.0.apk"
       }
     ]
   }
