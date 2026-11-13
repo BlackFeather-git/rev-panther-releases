@@ -1,0 +1,26 @@
+[
+  {
+    "tag_name": "v0.1.0-rc.9",
+    "name": "v0.1.0-rc.9",
+    "description": "Rev Panther v0.1.0-rc.9 (Beta Rolling Release)\n\n• Material 3 Expressive wavy progress indicator for downloads\n• Smooth animated progress tracking\n• Fixed font size on update action\n• GitLab releases resilient edge CDN integration",
+    "released_at": "2026-11-13T20:05:00Z",
+    "assets": [
+      {
+        "name": "RevPanther-v0.1.0-rc.9.apk",
+        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0-rc.9.apk"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.1.0",
+    "name": "v0.1.0",
+    "description": "Rev Panther v0.1.0 Official Stable Release\n\n• First production release of Rev Panther\n• Bluetooth SmartXonnect telemetry\n• Mapbox turn-by-turn navigation\n• Fuel logs, ride telemetry, and customizable dashboard",
+    "released_at": "2026-11-13T19:20:00Z",
+    "assets": [
+      {
+        "name": "RevPanther-v0.1.0.apk",
+        "url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0.apk"
+      }
+    ]
+  }
+]
