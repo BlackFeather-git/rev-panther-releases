@@ -1,14 +1,14 @@
 [
   {
-    "tag_name": "v0.1.0-rc.10",
-    "name": "v0.1.0-rc.10",
-    "description": "Rev Panther v0.1.0-rc.10 (Beta Rolling Release)\n\n• Strict channel separation: rolling builds only\n• Smooth, steady download progress pacing (0-100%)\n• Instant download connection without freezing\n• M3 Expressive wavy progress indicator",
-    "released_at": "2026-11-13T20:25:00Z",
+    "tag_name": "v0.1.0-beta.1",
+    "name": "v0.1.0-beta.1",
+    "description": "Rev Panther v0.1.0-beta.1 (Official First Beta Release)\n\n• In-App Updates: Smooth, paced 0–100% download progress with M3 Expressive wavy progress indicators\n• Resilient Updates: Edge-cached distribution with instant fallback mirror (no GitLab 429 rate limit blocks)\n• Strict Channels: Separate Stable and Beta (Rolling) release streams with zero cross-channel leaks\n• Developer Profile: Redesigned with layered Material 3 Expressive pill capsules, bouncy spring physics, and gentle ambient breathing\n• Glass Dock & Navigation: Edge-to-edge alignment and customizable dock styling\n• Connectivity: TVS SmartXonnect Bluetooth reconnect reliability improvements",
+    "released_at": "2026-11-13T20:40:00Z",
     "assets": [
       {
-        "name": "RevPanther-v0.1.0-rc.10.apk",
-        "url": "https://github.com/BlackFeather-git/rev-panther-releases/releases/download/v0.1.0-rc.10/RevPanther-v0.1.0-rc.10.apk",
-        "fallback_url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0-rc.10.apk"
+        "name": "RevPanther-v0.1.0-beta.1.apk",
+        "url": "https://github.com/BlackFeather-git/rev-panther-releases/releases/download/v0.1.0-beta.1/RevPanther-v0.1.0-beta.1.apk",
+        "fallback_url": "https://gitlab.com/blackfeather-group/rev-panther/-/raw/releases/RevPanther-v0.1.0-beta.1.apk"
       }
     ]
   },
